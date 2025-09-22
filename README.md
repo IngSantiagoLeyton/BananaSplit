@@ -3,6 +3,12 @@
 BananaSplit is a simple yet flexible Discord bot built to demonstrate the fundamentals of bot development.  
 This project is designed as a learning experience and as an open-source resource for developers interested in creating their own bots for Discord servers.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-LTS-green?logo=node.js" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Discord.js-14.x-blue?logo=discord" alt="Discord.js Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/>
+</p>
+
 ---
 
 ## ✨ Features
@@ -70,14 +76,13 @@ This project covers the following concepts:
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork this repository, open issues, or submit pull requests with improvements.
+This project is primarily for learning purposes, but suggestions and improvements are always welcome!
 
 ---
 
 ## 📄 License
 
-This project will be released under the **MIT License**.
+This project is released under the **MIT License**.
 (See `LICENSE` file for details.)
 
 ---
