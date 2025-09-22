@@ -87,5 +87,3 @@ This project will be released under the **MIT License**.
 * [Discord.js Documentation](https://discord.js.org/)
 * [Node.js Documentation](https://nodejs.org/)
 * Inspiration from community-driven open-source projects.
-
-```
